@@ -1,5 +1,4 @@
-# beabock.github.io
- Bea Bock's research website
+# Bea Bock's research website
  
  
 Advisors:
