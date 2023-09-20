@@ -1,2 +1,7 @@
 # beabock.github.io
- Bea's research website
+ Bea Bock's research website
+ 
+ 
+Advisors:
+Dr. Catherine Gehring
+Dr. Nancy Johnson
