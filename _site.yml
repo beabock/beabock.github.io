@@ -1,13 +1,8 @@
-name: "bea-website"
+name: "my-website"
 navbar:
-  title: "Bea Bock: Research Website"
+  title: "My Website"
 left:
   - text: "Home"
-href: README.html
-right: 
-  - icon: fa-envelope fa-lg
-href: mailto:<bmb646@cnau.edu>
-href: http://github.com/beabock/
-  output:
-  html_document:
-  theme: darkly
+href: index.html
+- text: "About"
+href: about.html
