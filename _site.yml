@@ -10,6 +10,8 @@ navbar:
       href: publications.html
     - text: "ICOM 2024"
       href: icom.html
+    - text: "CV"
+      href: "CV_Beatrice_Bock 2024.pdf"
     - text: "Contact me"
       href: contact.html
 output:
