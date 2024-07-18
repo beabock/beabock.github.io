@@ -1,5 +1,5 @@
 ---
-title: "Bea Bock's Research Website"
+  title: "Bea Bock's Research Website"
 ---
   
-  Hello, Website! Welcome to the world.
+Hello, Website! Welcome to the world.
