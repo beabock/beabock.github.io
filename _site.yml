@@ -7,7 +7,6 @@ href: index.html
 right: 
   - icon: fa-envelope fa-lg
 href: mailto:<bmb646@cnau.edu>
-  - icon: fa-github fa-lg
 href: http://github.com/beabock/
   output:
   html_document:

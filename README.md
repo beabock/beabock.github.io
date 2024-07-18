@@ -6,7 +6,7 @@ This website is still a work in progress!
 
 Bea Bock is a third-year PhD student at Northern Arizona University (NAU) in Flagstaff, AZ expecting to graduate in Spring 2026. Co-advised by Dr. Catherine Gehring and Dr. Nancy Johnson, she studies plant root-fungal symbioses and is interested in fungal networks facilitating resource transfers among plants. 
 
-<img src="bea.jpg" style="width:50%">
+<img src="bea.jpg" style="width:25%">
 
 # Dissertation Chapters:
 
