@@ -12,7 +12,6 @@ navbar:
       href: icom.html
     - text: "Contact me"
       href: contact.html
-http://github.com/beabock/
 output:
   html_document:
     theme: cosmo
