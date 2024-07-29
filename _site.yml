@@ -1,0 +1,20 @@
+name: "my-website"
+navbar:
+  title: "Bea Bock's Research Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Bea"
+      href: about.html
+    - text: "Publications"
+      href: publications.html
+    - text: "ICOM 2024"
+      href: icom.html
+    - text: "CV"
+      href: "CV_Beatrice_Bock 2024.pdf"
+    - text: "Contact me"
+      href: contact.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate

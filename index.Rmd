@@ -1,5 +1,5 @@
 ---
-title: "Bea Bock's Research Website"
+  title: "Bea Bock's Research Website"
 ---
   
-  Hello, Website! Welcome to the world.
+Click through the different tabs to access information on my research, how to contact me, and more.
