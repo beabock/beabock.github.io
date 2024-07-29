@@ -8,7 +8,25 @@ Poster Number: Poster Number: **LT-068**
 
 Poster Title: **Common Non-Mycorrhizal Networks: Exploring the “Dark Web”**
 
+### Poster Session Details:
+
+Poster Session Name: Poster Session 5
+
+Poster Session Date & Time: **August 8, Thursday &  10:35 - 11:15**
+
+### Lightning Talk Session Details:
+
+Session Name: Plenary Session 3: Regulation and Transport in Mycorrhizal Networks
+
+Session Date & Time: **August 8, Thursday & 10:35 - 11:15**
+
+
 Find me! 
+
+# R package I made for this experiment
+**Bock**, B. https://github.com/beabock/nanodRop Zenodo https://doi.org/10.5281/ZENODO.12519996 **(2024)**.
+
+- Made to deal with the output files from the NanoDrop One spectrophotometer (which I used for the spectral measurements).
 
 # References
 
@@ -49,8 +67,3 @@ Find me!
 **Rillig**, M. C., Lehmann, A., Lanfranco, L., Caruso, T. & Johnson, D. Clarifying the definition of common mycorrhizal networks. *Funct. Ecol.* 1365-2435.14545 **(2024)** doi:10.1111/1365-2435.14545.
 
 - Proposes the term of "Common Fungal Networks" with the idea that non-mycorrhizal fungi may form common networks in addition to those formed my mycorrhizal fungi
-
-# R package I made for this experiment
-**Bock**, B. https://github.com/beabock/nanodRop Zenodo https://doi.org/10.5281/ZENODO.12519996 **(2024)**.
-
-- Made to deal with the output files from the NanoDrop One spectrophotometer (which I used for the spectral measurements).
