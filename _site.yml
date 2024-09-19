@@ -14,6 +14,8 @@ navbar:
       href: "CV_Beatrice_Bock 2024.pdf"
     - text: "Contact me"
       href: contact.html
+    - text: "Sitemap"
+      href: google16c2f87c1dbb85cf.html
 output:
   html_document:
     theme: cosmo
