@@ -3,3 +3,6 @@
 ---
   
 Click through the different tabs to access information on my research, how to contact me, and more.
+
+
+<meta name="google-site-verification" content="3FJZ1RMz65BwWlGZXt8_bRNfeeblS-Vx4-jHl5lwEvE" />
