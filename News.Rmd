@@ -2,6 +2,11 @@
   title: "In the News"
 ---
 
+https://functionalecologists.com/2024/09/25/beatrice-bock-becoming-a-scientist-wasnt-a-mistake-just-a-happy-little-accident/
+
+A profile feature I got to write for Functional Ecology about my introduction to science.
+
+
 https://www.emsl.pnnl.gov/news/twenty-four-researchers-and-students-awarded-exclusive-training
 
 Coverage from my time at the Pacific Northwest National Laboratory during Summer 2024 where I got training on studying fungal proteins at EMSL.
